@@ -1,0 +1,349 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+    
+
+}
+
+body {
+    
+    height: 1900px;
+    width: 2100px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+    
+    
+
+
+}
+.header-top {
+    margin-top: 0px;
+    
+    background-color: #F5F5F5;
+
+}
+
+.header-top-container {
+   
+    color: #04034d;
+    margin-left: 345px;
+    padding-top:10px ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 40px;
+    font-size: 14px;
+    
+}
+
+.header-bottom {
+    
+    margin-top: 10px;
+    margin-left:377px;
+    display: inline-block;
+    width:100%;
+    float:left;
+    
+}
+
+.main {
+
+    max-width: 100%;
+    height: 480px;
+    float: left;
+}
+
+
+
+header ul li {
+
+    display: inline;
+    
+}
+
+.hli {
+    position: relative;
+    padding-left: 40px;
+    
+    line-height: 2;
+
+}
+
+.searchbar {
+
+    position:relative;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.logo {
+
+    width:320px;
+}
+
+.logo1 {
+
+    float:left;
+    
+}
+.fake {
+
+    width: 100%;
+    height: 1px;
+    clear: both;
+    background-color:#EBEBEB;
+
+}
+
+
+header button {
+
+
+    background-color: #001a34;
+    margin-top: 15px;
+    color: #ffffff;
+    margin-right:10px;
+    height:38px;
+    border-radius: 3px;
+    width: 100px;
+    text-align: center;
+    float:left;
+    margin-left:20px;
+    border-width: 0px;
+    font-size: 14px;
+
+
+}
+
+
+
+
+.logo1 input {
+
+
+    padding-top:4px;
+    padding-bottom: 4px;
+    font-size:16px;
+    border:1;
+    border-color: #001a34;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+    }
+
+.searchbar {
+    
+    width: 420px;
+    float:left;
+    height:26px;
+    margin-top:15px;
+    
+    
+    
+}
+
+.submit{
+
+    
+    height: 38px;
+    position:relative;
+    width: 100px;
+    background-color: #001a34;
+    float:left;
+    border-bottom-left-radius: 0px !important; 
+    border-top-left-radius: 0px !important; 
+    color: #ffffff;
+    text-align: center;
+    margin-top:15px;
+}
+
+.srch {
+
+    
+    margin-left:10px;
+    
+
+}
+
+.catalogue1 {
+
+    background-color: #001a34;
+    margin-top: 15px;
+    color: #ffffff;
+    margin-right:10px;
+    height:30px;
+    border-radius: 3px;
+    width: 100px;
+    text-align: center;
+    padding-top: 8px;
+    float:left;
+    margin-left:20px;
+}
+
+.time {
+
+    width:100px;
+    margin-left:30px;
+    color:#001a34;
+    text-align:center;
+    margin-top:10px;
+    font-size:18px;
+    font-weight: 500;
+}
+
+.sub {
+
+    float: left;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5); /* Параметры тени */
+    height: 380px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 15px;
+    
+}
+
+.sub1 {
+
+    padding-left: 20px;
+    padding-top: 30px;
+    
+
+}
+
+.sub2 {
+
+    width: 210px;
+    height: 44px;
+    border-radius: 8px;
+    margin-left: 20px;
+    margin-top: 15px;
+    text-align: center;
+
+}
+.sub-email {
+
+    box-shadow: 0 0 5px rgba(185, 170, 170, 0.5); /* Параметры тени */
+    border-width: 0px;
+    margin-top: 180px;
+    border-radius: 0px;
+    
+}
+.sub input {
+
+    
+    width: 190px;
+    height: 38px;
+    margin-left: 20px;
+    padding-left: 20px;
+
+}
+
+.offers {
+
+    
+    width: 800px;
+    margin-left: 365px;
+    margin-top: 20px;
+    position: relative;
+    font-size: 30px;
+    height: 30px;
+    
+
+}
+
+.product {
+
+    height: 311px;
+    width: 160px;
+    font-size: 18px;
+    font-family: 'Roboto' ,sans-serif !important;
+    display: inline-block !important;
+    margin-left: 28px;
+    
+}
+
+.productpic {
+
+
+    width: 160px;
+    height: 160px;
+    
+}
+
+.prices {
+
+    float:left;
+    height: 20px;
+    display: inline-block;
+    
+
+}
+
+.BUY {
+
+    background-color: #000AEF;
+    color: white;
+    width: 160px;
+    height: 30px;
+    border-radius: 8px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 17px;
+
+    
+}
+
+
+.stars img {
+
+    height: 8%;
+    width: 8%;
+
+
+}
+
+.bottom {
+
+
+    width: 100%;
+    height: 500px;
+    background-color: #282626;
+
+
+}
+
+.connections {
+
+    color: #ffffff;
+    margin-left: 365px;
+    display: inline-block;
+    float: left;
+
+
+
+}
+
+.connections ul li {
+
+    margin-bottom: 15px;
+    list-style-type: none;
+    
+}
+
+.logoblack {
+
+    float:right;
+    margin-top: 340px;
+    margin-right: 200px;
+    
+
+}
+
+.logoblack img {
+
+    height: 70%;
+    width: 70%;
+    
+}

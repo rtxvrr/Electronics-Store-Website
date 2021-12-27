@@ -1,0 +1,54 @@
+
+.navigationbar {
+
+    margin-top: 10px;
+    color:black;
+    opacity: .5;
+    margin-left: 370px;
+    font-size: 14px;
+
+
+}
+
+.catalogueP2 {
+
+    height: 320px;
+    width: 340px;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+    border-radius: 15px;
+    display: inline;
+    margin-right: 40px;
+    float: left;
+    
+    
+}
+
+
+.catalogueP {
+
+    float: left;
+    
+
+
+}
+
+.picture {
+
+    height: 258px;
+    width: 242px;
+    padding-left: 50px;
+
+}
+
+.picture-text {
+
+    width: 100%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    margin-top: 10px;
+
+
+}
+

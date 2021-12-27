@@ -1,0 +1,296 @@
+.name {
+
+    width: 100%;
+    margin-left: 370px;
+    margin-top: 30px;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.name2 {
+
+    display: inline;
+    float: left;
+
+
+}
+
+.name-stars {
+
+    display: inline;
+    float: left;
+    font-size: 23px;
+    
+
+}
+
+.name-stars img {
+
+    width: 25px;
+    height: 25px;
+
+
+}
+
+.tovar {
+
+    width: 50%;
+    height: 100%;
+    display: inline;
+    float: left;
+
+
+
+}
+
+.tovar img {
+
+    height: 300px;
+    width: 300px;
+    padding-left: 130px;
+
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .slider__container {
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 80px;
+  }
+
+  .slider__items {
+    counter-reset: slide;
+  }
+
+  .slider__item {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    counter-increment: slide;
+    height: 400px;
+    position: relative;
+  }
+
+  .slider__item::before {
+    content: counter(slide) "/5";
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    color: #fff;
+    font-style: italic;
+    font-size: 32px;
+    font-weight: bold;
+    display: block;
+  }
+
+  .slider__item:nth-child(1) {
+    background-color: white;
+  }
+
+  .slider__item:nth-child(2) {
+    background-color: white;
+  }
+
+  .slider__item:nth-child(3) {
+    background-color: white;
+  }
+
+  .slider__item:nth-child(4) {
+    background-color: white;
+  }
+
+  .slider__item:nth-child(5) {
+    background-color: white;
+  }
+
+.tovar2 {
+
+    height: 220px;
+    margin-top: 40px;
+    box-shadow: 0 0 2px rgba(0,0,0,0.5);
+    width: 500px;
+    margin-left: 25px;
+    border-radius:15px;
+
+  }
+
+.tovar3 {
+
+   
+    height: 40px;
+    margin-left:30px;
+    
+
+}
+
+.tovar4 {
+
+    display: inline;
+    float: left;
+
+}
+
+.tovar5 {
+
+    width: 215px;
+    background-color: #E5E5E5;
+    border-radius: 15px;
+    border: 0;
+    height: 50px;
+
+}
+
+.tovar6 {
+
+    display: inline;
+    float: left;
+    font-size: 18px;
+    margin-left: 15px;
+    text-align: center;
+    
+
+}
+
+.tovar6 p {
+    font-weight: 400 !important;
+}
+
+
+.tovar-color {
+
+    display: inline;
+    float: left;
+    height: 20px;
+    width: 20px;
+    margin-left: 10px;
+    border-radius: 7px;
+
+
+}
+.tovar4 p {
+
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+.tovar7 {
+
+    display: inline;
+    float: left;
+    font-weight: 500;
+
+}
+
+.tovar-memory {
+
+    width: 55px;
+    height: 21px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    box-shadow: 0 0 2px rgba(0,0,0,0.3);
+    border-radius: 6px;
+    
+
+}
+
+.tovar-memory p {
+
+    text-align: center;
+    font-size: 14px;
+    margin-top: 2px;
+    font-weight: 400;
+
+
+}
+
+.specs {
+
+    display: inline;
+    float: left;
+    height: 350px;
+    box-shadow: 0 0 2px rgba(0,0,0,0.8);
+    border-radius: 10px;
+
+}
+
+.specsleft {
+
+    height: 50px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.specsleft2 {
+
+
+    float: left;
+    display: inline;
+
+}
+
+.specsleft2 p {
+
+    margin-left: 15px;
+    font-weight: 500;
+    margin-top: 3px;
+
+
+}
+
+.specsleft2 img {
+
+    height: 20px;
+    width: 20px;
+
+
+}
+
+.specs2 {
+
+    width: 800px;
+    margin-top: 20px; margin-left: 30px;
+}
+
+
+.specs3 {
+
+    display: inline;
+    float: left;
+    margin-top: 20px;
+    width: 200px;
+    
+
+}
+
+.specs4 {
+
+    width: 800px;
+    height: 50px;
+}
+
+.specs3 p {
+
+    color:  rgba(0,0,0,0.7)
+
+}
+
+.opisanie {
+
+    
+
+    
+    height: 350px;
+    box-shadow: 0 0 2px rgba(0,0,0,0.6);
+    border-radius: 10px;
+    width: 800px;
+    margin-left: 300px;
+    
+}
